@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+alt+u"], "command": "use_it" },
+	{ "keys": ["alt+shift+f"], "command": "reindent" }
+]

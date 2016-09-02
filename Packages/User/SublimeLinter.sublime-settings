@@ -1,0 +1,158 @@
+{
+	"user":
+	{
+		"debug": true,
+		"delay": 0.25,
+		"error_color": "D02000",
+		"gutter_theme": "",
+		"gutter_theme_excludes":
+		[
+		],
+		"lint_mode": "background",
+		"linters":
+		{
+			"csslint":
+			{
+				"@disable": false,
+				"adjoining-classes": false,
+				"args":
+				[
+				],
+				"box-model": false,
+				"box-sizing": false,
+				"compatible-vendor-prefixes": false,
+				"errors": "",
+				"excludes":
+				[
+				],
+				"floats": false,
+				"font-sizes": false,
+				"gradients": false,
+				"ignore": "",
+				"important": false,
+				"known-properties": false,
+				"outline-none": false,
+				"qualified-headings": false,
+				"regex-selectors": false,
+				"shorthand": false,
+				"text-indent": false,
+				"unique-headings": false,
+				"universal-selector": false,
+				"unqualified-attributes": false,
+				"warnings": ""
+			},
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+					"--stdin-filename",
+					"__RELATIVE_TO_FOLDER__"
+				],
+				"excludes":
+				[
+					"**/node_modules/**",
+					"**/vendor/**"
+				]
+			},
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"browser": true,
+				"camelcase": true,
+				"eqeqeq": true,
+				"eqnull": true,
+				"excludes":
+				[
+				],
+				"globals":
+				{
+					"$": true,
+					"console": true,
+					"document": true,
+					"global": true,
+					"grunt": true,
+					"jQuery": true,
+					"module": true,
+					"setInterval": true,
+					"setTimeout": true,
+					"window": true
+				},
+				"indent": 2,
+				"jquery": true,
+				"latedef": true,
+				"maxlen": 80,
+				"newcap": true,
+				"node": true,
+				"one-var":
+				[
+					"error",
+					{
+						"const": "never",
+						"let": "always",
+						"var": "always"
+					}
+				],
+				"quotmark": "single",
+				"strict": true,
+				"trailing": true,
+				"undef": true,
+				"unused": true
+			}
+		},
+		"mark_style": "solid underline",
+		"no_column_highlights_line": false,
+		"passive_warnings": false,
+		"paths":
+		{
+			"linux":
+			[
+			],
+			"osx":
+			[
+			],
+			"windows":
+			[
+			]
+		},
+		"python_paths":
+		{
+			"linux":
+			[
+			],
+			"osx":
+			[
+			],
+			"windows":
+			[
+			]
+		},
+		"rc_search_limit": 3,
+		"shell_timeout": 10,
+		"show_errors_on_save": false,
+		"show_marks_in_minimap": true,
+		"sublimelinter": "save-only",
+		"sublimelinter_executable_map":
+		{
+			"css": "C:/Program Files/nodejs/node.exe",
+			"javascript": "C:/Program Files/nodejs/node.exe"
+		},
+		"sublimelinter_popup_errors_on_save": true,
+		"syntax_map":
+		{
+			"html (django)": "html",
+			"html (rails)": "html",
+			"html 5": "html",
+			"javascript (babel)": "javascript",
+			"magicpython": "python",
+			"php": "html",
+			"python django": "python",
+			"pythonimproved": "python"
+		},
+		"warning_color": "DDB700",
+		"wrap_find": true
+	}
+}
