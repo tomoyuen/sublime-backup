@@ -28,6 +28,7 @@
 		"SublimeLinter-jshint",
 		"SublimeTmpl",
 		"Syntax Highlighting for PostCSS",
+		"Terminal",
 		"Vue Syntax Highlight"
 	]
 }

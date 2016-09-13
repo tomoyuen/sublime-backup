@@ -1,4 +1,5 @@
 [
 	{ "keys": ["ctrl+alt+u"], "command": "use_it" },
-	{ "keys": ["alt+shift+f"], "command": "reindent" }
+	{ "keys": ["alt+shift+f"], "command": "reindent" },
+	{ "keys": ["alt+d"], "command": "code_intel_auto_complete"}
 ]
