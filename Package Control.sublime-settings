@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"Can I Use",
+		"Color Highlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PostCSS Sorting",
+		"Stylefmt",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeTmpl",
+		"Syntax Highlighting for PostCSS",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}

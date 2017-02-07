@@ -1,0 +1,12 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "indentation": [2, {
+      "severity": "warning"
+    }],
+      "color-hex-case": [ "lower", {
+      "message": "Lowercase letters are easier to distinguish from numbers"
+    }],
+    "number-leading-zero": "never"
+  }
+}

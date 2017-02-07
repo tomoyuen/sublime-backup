@@ -1,2 +1,7 @@
-Backup
-Local
+*.exe
+*.crt
+*.tmTheme
+/Package Control.cache
+/*.merged-ca-bundle
+/*.user-ca-bundle
+/*.last-run

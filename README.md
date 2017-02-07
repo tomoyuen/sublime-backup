@@ -4,6 +4,10 @@ This project is my Sublime Text 3 configure backup.
 
 
 
+### Screenshots
+
+![Screenshots](https://github.com/tomoyuen/sublime-backup/blob/master/Screenshots.png)
+
 #### Plugins
 
 - [Package Control](https://packagecontrol.io/packages/Package%20Control)
@@ -16,6 +20,8 @@ This project is my Sublime Text 3 configure backup.
 - [Stylefmt](https://packagecontrol.io/packages/Stylefmt)
 - [PostCSS Sorting](https://packagecontrol.io/packages/PostCSS%20Sorting)
 - [Terminal](https://packagecontrol.io/packages/Terminal)
+- [Can I Use](https://packagecontrol.io/packages/Can%20I%20Use)
+- [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
 
 
 
@@ -25,6 +31,7 @@ This project is my Sublime Text 3 configure backup.
 - [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 - [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 - [Material Theme - White Panels](https://packagecontrol.io/packages/Material%20Theme%20-%20White%20Panels)
+- [[Material Theme - Appbar](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar)]
 
 
 
