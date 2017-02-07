@@ -2,6 +2,8 @@
 
 This project is my Sublime Text 3 configure backup.
 
+you can install this packages, and copy settings file to User directory to make editor beautiful & stronger.
+
 
 
 ### Screenshots
