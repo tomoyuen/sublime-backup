@@ -1,5 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
+	"atomic_save": false,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"font_options":
@@ -11,6 +12,7 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"indent_guide_options":
 	[
