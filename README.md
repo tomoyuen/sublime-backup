@@ -33,7 +33,7 @@ you can install this packages, and copy settings file to User directory to make 
 - [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 - [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 - [Material Theme - White Panels](https://packagecontrol.io/packages/Material%20Theme%20-%20White%20Panels)
-- [[Material Theme - Appbar](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar)]
+- [Material Theme - Appbar](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar)
 
 
 
@@ -41,6 +41,7 @@ you can install this packages, and copy settings file to User directory to make 
 
 - [Syntax Highlighting for PostCSS](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20PostCSS)
 - [Vue Syntax Highlight](https://packagecontrol.io/packages/Vue%20Syntax%20Highlight)
+- [Babel](https://packagecontrol.io/packages/Babel)
 
 
 

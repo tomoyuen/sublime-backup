@@ -45,5 +45,10 @@
 	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme",
-	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true,
+	"show_encoding": true,
+	"show_line_endings": true
 }
