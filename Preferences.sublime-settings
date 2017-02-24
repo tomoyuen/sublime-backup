@@ -44,11 +44,11 @@
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme",
+	"show_encoding": true,
+	"show_line_endings": true,
 	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": true,
-	"show_encoding": true,
-	"show_line_endings": true
+	"word_wrap": true
 }
