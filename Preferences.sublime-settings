@@ -12,7 +12,8 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
