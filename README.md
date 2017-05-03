@@ -13,7 +13,7 @@ you can install this packages, and copy settings file to User directory to make 
 #### Plugins
 
 - [Package Control](https://packagecontrol.io/packages/Package%20Control)
-- [AutoFileName](https://packagecontrol.io/packages/A%20File%20Icon)
+- [AutoFileName](https://packagecontrol.io/packages/AutoFileName)
 - [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
